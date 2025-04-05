@@ -1,0 +1,17 @@
+[
+  {
+    "date": "2025-03-01",
+    "title": "Introduction to React",
+    "videoUrl": "https://www.youtube.com/embed/dGcsHMXbSOA"
+  },
+  {
+    "date": "2025-03-05",
+    "title": "React State Management",
+    "videoUrl": "https://www.youtube.com/embed/O6P86uwfdR0"
+  },
+  {
+    "date": "2025-03-10",
+    "title": "React Routing Deep Dive",
+    "videoUrl": "https://www.youtube.com/embed/Law7wfdg_ls"
+  }
+]
