@@ -1,17 +1,24 @@
 [
   {
-    "date": "2025-04-04",
-    "title": "Introduction to React",
-    "videoUrl": "https://your-storage.com/recordings/intro-react.mp4"
+    "date": "2025-04-01",
+    "classes": [
+      {
+        "topic": "Introduction to Statistics",
+        "videoUrl": "https://your-domain.com/videos/statistics-intro.mp4"
+      },
+      {
+        "topic": "Data Types & Classification",
+        "videoUrl": "https://your-domain.com/videos/data-types.mp4"
+      }
+    ]
   },
   {
     "date": "2025-04-05",
-    "title": "Firebase Authentication Basics",
-    "videoUrl": "https://your-storage.com/recordings/firebase-auth.mp4"
-  },
-  {
-    "date": "2025-04-06",
-    "title": "Using Firestore with React",
-    "videoUrl": "https://your-storage.com/recordings/firestore-react.mp4"
+    "classes": [
+      {
+        "topic": "Trigonometric Ratios",
+        "videoUrl": "https://your-domain.com/videos/trigonometry.mp4"
+      }
+    ]
   }
 ]
