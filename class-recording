@@ -1,17 +1,17 @@
 [
   {
-    "date": "2025-03-01",
+    "date": "2025-04-04",
     "title": "Introduction to React",
-    "videoUrl": "https://www.youtube.com/embed/dGcsHMXbSOA"
+    "videoUrl": "https://your-storage.com/recordings/intro-react.mp4"
   },
   {
-    "date": "2025-03-05",
-    "title": "React State Management",
-    "videoUrl": "https://www.youtube.com/embed/O6P86uwfdR0"
+    "date": "2025-04-05",
+    "title": "Firebase Authentication Basics",
+    "videoUrl": "https://your-storage.com/recordings/firebase-auth.mp4"
   },
   {
-    "date": "2025-03-10",
-    "title": "React Routing Deep Dive",
-    "videoUrl": "https://www.youtube.com/embed/Law7wfdg_ls"
+    "date": "2025-04-06",
+    "title": "Using Firestore with React",
+    "videoUrl": "https://your-storage.com/recordings/firestore-react.mp4"
   }
 ]
