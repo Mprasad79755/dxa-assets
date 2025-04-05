@@ -1,0 +1,30 @@
+{
+  "Monday": [
+    { "time": "8:00 - 9:30", "topic": "Mathematics - Algebra" },
+    { "time": "8:00 - 9:30", "topic": "Statistics - Mean & Median" }
+  ],
+  "Tuesday": [
+    { "time": "8:00 - 9:30", "topic": "IT Skills - Excel Basics" },
+    { "time": "8:00 - 9:30", "topic": "Maths - Trigonometry" }
+  ],
+  "Wednesday": [
+    { "time": "8:00 - 9:30", "topic": "Electronics - Circuits" },
+    { "time": "8:00 - 9:30", "topic": "Project Mgmt - Agile Intro" }
+  ],
+  "Thursday": [
+    { "time": "8:00 - 9:30", "topic": "Maths - Probability" },
+    { "time": "8:00 - 9:30", "topic": "IT - Web Basics" }
+  ],
+  "Friday": [
+    { "time": "8:00 - 9:30", "topic": "Statistics - Graphs" },
+    { "time": "8:00 - 9:30", "topic": "Project Mgmt - Planning" }
+  ],
+  "Saturday": [
+    { "time": "8:00 - 9:30", "topic": "Electronics - Ohm’s Law" },
+    { "time": "8:00 - 9:30", "topic": "Maths - Geometry" }
+  ],
+  "Sunday": [
+    { "time": "8:00 - 9:30", "topic": "Doubt Session" },
+    { "time": "8:00 - 9:30", "topic": "Weekly Recap" }
+  ]
+}
