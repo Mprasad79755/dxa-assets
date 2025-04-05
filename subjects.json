@@ -1,0 +1,171 @@
+[
+  {
+    "name": "Maths",
+    "units": [
+      {
+        "title": "Matrices and Determinants",
+        "time": 20,
+        "questions": 15,
+        "link": "/quiz/maths/matrices-and-determinants"
+      },
+      {
+        "title": "Straight Lines",
+        "time": 15,
+        "questions": 12,
+        "link": "/quiz/maths/straight-lines"
+      },
+      {
+        "title": "Trigonometry",
+        "time": 25,
+        "questions": 18,
+        "link": "/quiz/maths/trigonometry"
+      },
+      {
+        "title": "Differentiation",
+        "time": 30,
+        "questions": 20,
+        "link": "/quiz/maths/differentiation"
+      },
+      {
+        "title": "Integration",
+        "time": 30,
+        "questions": 20,
+        "link": "/quiz/maths/integration"
+      }
+    ]
+  },
+  {
+    "name": "Statistics and Analytics",
+    "units": [
+      {
+        "title": "Statistical Data Collection and Types",
+        "time": 15,
+        "questions": 10,
+        "link": "/quiz/statistics-and-analytics/statistical-data-collection-and-types"
+      },
+      {
+        "title": "Summarization of Data",
+        "time": 20,
+        "questions": 15,
+        "link": "/quiz/statistics-and-analytics/summarization-of-data"
+      },
+      {
+        "title": "Measure of Location and Dispersion",
+        "time": 25,
+        "questions": 18,
+        "link": "/quiz/statistics-and-analytics/measure-of-location-and-dispersion"
+      },
+      {
+        "title": "Introduction to Python Programming",
+        "time": 30,
+        "questions": 20,
+        "link": "/quiz/statistics-and-analytics/introduction-to-python-programming"
+      }
+    ]
+  },
+  {
+    "name": "IT Skills",
+    "units": [
+      {
+        "title": "Basics of Coding",
+        "time": 20,
+        "questions": 15,
+        "link": "/quiz/it-skills/basics-of-coding"
+      },
+      {
+        "title": "Design and Development of Web Pages",
+        "time": 25,
+        "questions": 18,
+        "link": "/quiz/it-skills/design-and-development-of-web-pages"
+      },
+      {
+        "title": "Business Process and Automation",
+        "time": 20,
+        "questions": 15,
+        "link": "/quiz/it-skills/business-process-and-automation"
+      },
+      {
+        "title": "Introduction to Cloud and IoT Concepts",
+        "time": 25,
+        "questions": 18,
+        "link": "/quiz/it-skills/introduction-to-cloud-and-iot-concepts"
+      },
+      {
+        "title": "Cyber Security and Safety",
+        "time": 30,
+        "questions": 20,
+        "link": "/quiz/it-skills/cyber-security-and-safety"
+      }
+    ]
+  },
+  {
+    "name": "Fundamentals of Electricals and Electronics",
+    "units": [
+      {
+        "title": "Electrical Safety",
+        "time": 15,
+        "questions": 10,
+        "link": "/quiz/fundamentals-of-electricals-and-electronics/electrical-safety"
+      },
+      {
+        "title": "Electrical Fundamentals",
+        "time": 20,
+        "questions": 15,
+        "link": "/quiz/fundamentals-of-electricals-and-electronics/electrical-fundamentals"
+      },
+      {
+        "title": "Protective Devices and Wiring Circuits",
+        "time": 25,
+        "questions": 18,
+        "link": "/quiz/fundamentals-of-electricals-and-electronics/protective-devices-and-wiring-circuits"
+      },
+      {
+        "title": "Electrical Machines Batteries and UPS",
+        "time": 30,
+        "questions": 20,
+        "link": "/quiz/fundamentals-of-electricals-and-electronics/electrical-machines-batteries-and-ups"
+      },
+      {
+        "title": "Introduction to Digital Electronics",
+        "time": 25,
+        "questions": 18,
+        "link": "/quiz/fundamentals-of-electricals-and-electronics/introduction-to-digital-electronics"
+      }
+    ]
+  },
+  {
+    "name": "Project Management Skills",
+    "units": [
+      {
+        "title": "Introduction",
+        "time": 15,
+        "questions": 10,
+        "link": "/quiz/project-management-skills/introduction"
+      },
+      {
+        "title": "Project Administration",
+        "time": 20,
+        "questions": 15,
+        "link": "/quiz/project-management-skills/project-administration"
+      },
+      {
+        "title": "Project Life Cycle",
+        "time": 25,
+        "questions": 18,
+        "link": "/quiz/project-management-skills/project-life-cycle"
+      },
+      {
+        "title": "Project Scheduling and Monitoring",
+        "time": 30,
+        "questions": 20,
+        "link": "/quiz/project-management-skills/project-scheduling-and-monitoring"
+      },
+      {
+        "title": "Project Control, Review and Audit",
+        "time": 25,
+        "questions": 18,
+        "link": "/quiz/project-management-skills/project-control-review-and-audit"
+      }
+    ]
+  }
+]
