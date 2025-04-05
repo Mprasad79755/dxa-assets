@@ -1,7 +1,7 @@
 {
   "Monday": [
     { "time": "8:00 - 9:30", "topic": "Mathematics" },
-    { "time": "8:00 - 9:30", "topic": "Statistics - Mean & Median" }
+    { "time": "8:00 - 9:30", "topic": "Statistics" }
   ],
   "Tuesday": [
     { "time": "8:00 - 9:30", "topic": "IT Skills - Excel Basics" },
